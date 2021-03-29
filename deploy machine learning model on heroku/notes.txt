@@ -1,0 +1,13 @@
+1. Make virtual environment
+   Install Python and pip with method of your choice, and then make a virtual environment called all
+   Install Flask in all env
+   Make New Folder app
+   Go to Flask basic app docs and copy paste into app/app.py
+   Cmd->flask run in app/
+   Go to local host to see that a basic Flask app works
+ 
+2. Train a linear classifier using scikit-learn on Age-Heights data
+   Download the model
+
+3. Test the model locally with Flask
+   Install numpy and scikit onto env
