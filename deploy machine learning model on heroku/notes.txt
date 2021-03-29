@@ -11,3 +11,10 @@
 
 3. Test the model locally with Flask
    Install numpy and scikit onto env
+   Make app clone and show the model works
+
+4. Make the UI
+   a) Make the make_picture function in colab and download base_pic.png
+   b) Make app/static folder and app/templates folder and the 4b docs
+   c) Add the form (4c docs)
+   d) pip install plotly and pandas, download data file, and make the final output
