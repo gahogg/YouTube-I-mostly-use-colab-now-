@@ -18,4 +18,4 @@
    b) Make app/static folder and app/templates folder and the 4b docs
    c) Add the form (4c docs)
    d) pip install plotly and pandas, download data file, and make the final output
-   e) If there's errors contact me lol
+   e) !pip install kaleido
