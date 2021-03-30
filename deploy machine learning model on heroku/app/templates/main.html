@@ -1,8 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <center>
     <img
-    src="{{ file_name }}"
-    type="application/pdf"
+    src="{{ url_for('static', filename=file_name) }}"
     height = "600"
 ></img>
 <br/><br/>
